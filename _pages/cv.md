@@ -63,14 +63,5 @@ redirect_from:
 * **IBM** — Machine Learning with Python; Introduction to Deep Learning & Neural Networks with Keras; Deep Learning with Keras and TensorFlow; Introduction to Neural Networks and PyTorch. 
 * **Adecco** — Theoretical formation for the commercial network of Banco Sabadell.
 
-# Teaching & Speaking
-<ul>{% for post in site.teaching reversed %} {% include archive-single-cv.html %} {% endfor %}</ul>
-
-# Publications
-<ul>{% for post in site.publications reversed %} {% include archive-single-cv.html %} {% endfor %}</ul>
-
-# Talks
-<ul>{% for post in site.talks reversed %} {% include archive-single-talk-cv.html %} {% endfor %}</ul>
-
 # Service & Leadership
 * Actor, local theatre production (see "Els Pastorets").
