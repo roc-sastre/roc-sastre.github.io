@@ -9,8 +9,6 @@ The project studies the effectiveness of monetary policy before, during, and aft
 # Monetary Policy and the Pandemic  
 ### SVAR Analysis of Monetary Policy in the COVID-19 Era
 
-This repository contains the code and materials for my final dissertation for the Double Degree in Economics and Statistics.
-
 The project studies the effectiveness of monetary policy before, during, and after COVID-19 in the euro area and the United States using Structural Vector Autoregression (SVAR) models with sign restrictions, grounded in a New Keynesian framework.
 
 📄 Full dissertation: [FP-ECOEST_Sastre_2025.pdf](https://roc-sastre.github.io/files/TFG-ECOEST_Sastre_2025.pdf)
