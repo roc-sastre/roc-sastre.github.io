@@ -30,7 +30,7 @@ I will be publishing personal projects and reproducible code while preparing app
 - Deep learning code for both finance-related and broader applications
 - Short project write-ups and reproducible results
 
-See the **Projects** page for ongoing work: `/projects`.
+See the **Projects** page for ongoing work: `/publications`.
 
 ---
 
@@ -38,7 +38,7 @@ See the **Projects** page for ongoing work: `/projects`.
 
 Occasionally I publish less data-driven essays discussing economic and financial issues from a logical and analytical perspective. These pieces are intended to complement the more technical work with policy-oriented and conceptual discussion.
 
-Read posts on the **Blog**: `/blog`.
+Read posts on the **Blog**: `/posts`.
 
 ---
 
