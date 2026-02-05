@@ -1,6 +1,6 @@
 ---
 title: "Monetary Policy and the Pandemic"
-excerpt: "SVAR Analysis of Monetary Policy in the COVID-19 Era<br/><img src='/images/500x300.png'>"
+excerpt: "SVAR Analysis of Monetary Policy in the COVID-19 Era<br/><img src='/images/TFG-ECOEST_Sastre_2025.png'>"
 collection: portfolio
 ---
 
