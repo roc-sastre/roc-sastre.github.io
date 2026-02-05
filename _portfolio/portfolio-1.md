@@ -4,9 +4,6 @@ excerpt: "SVAR Analysis of Monetary Policy in the COVID-19 Era<br/><img src='/im
 collection: portfolio
 ---
 
-The project studies the effectiveness of monetary policy before, during, and after COVID-19 in the euro area and the United States using Structural Vector Autoregression (SVAR) models with sign restrictions, grounded in a New Keynesian framework.
-
-# Monetary Policy and the Pandemic  
 ### SVAR Analysis of Monetary Policy in the COVID-19 Era
 
 The project studies the effectiveness of monetary policy before, during, and after COVID-19 in the euro area and the United States using Structural Vector Autoregression (SVAR) models with sign restrictions, grounded in a New Keynesian framework.
