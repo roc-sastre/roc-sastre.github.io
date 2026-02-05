@@ -19,11 +19,14 @@ redirect_from:
   * Batxillerat Científic — Avg: 9.3.
 
 # Professional Experience
+* **Data Analytics & Insurance** — Grupo Catalana Occident (2026 - present)  
+  Dataset and customer analysis; risk assessment.
+
 * **Financial Planning & Analysis Intern** — Banc Sabadell, S.A. (2025)  
   Budget analysis; preparation of financial statements.
 
-* **Data Analytics & Insurance** — Grupo Catalana Occident (2026 - present)  
-  Dataset and customer analysis; risk assessment.
+* **Climbing Coach** — (2025)  
+  Youth coaching, sports training.
 
 * **Commercial and Cash Management** — (2021–2025)  
   Customer service and basic administrative tasks (Banco Sabadell commercial network training via Adecco).
@@ -33,9 +36,6 @@ redirect_from:
 
 * **Private Tutor** — (2019–2023)  
   One-to-one tutoring in Mathematics, Philosophy, Spanish History, Physics, and Chemistry.
-
-* **Climbing Coach** — (2025)  
-  Youth coaching, sports training.
 
 # Projects & Extra-curricular
 * **UPC Datathon** (2024) — Data science marathon solving business-oriented challenges.
