@@ -38,7 +38,7 @@ See the **Projects** page for ongoing work: `/projects`.
 
 Occasionally I publish less data-driven essays discussing economic and financial issues from a logical and analytical perspective. These pieces are intended to complement the more technical work with policy-oriented and conceptual discussion.
 
-Read posts on the **Blog**: `/blog` (or your posts collection).
+Read posts on the **Blog**: `/blog`.
 
 ---
 
@@ -51,7 +51,7 @@ Read posts on the **Blog**: `/blog` (or your posts collection).
 
 # Publications & Reports
 
-I have not yet published peer-reviewed academic articles. My undergraduate capstone (double degree final project) analyzed the effects of monetary policy during the COVID-19 era — available here: `/files/TFG-Roc.pdf` (replace with actual file path).
+I have not yet published peer-reviewed academic articles. My undergraduate capstone (double degree final project) analyzed the effects of monetary policy during the COVID-19 era — available here: `/files/TFG-Roc.pdf`.
 
 Planned: academic submissions following completion of an MSc.
 
