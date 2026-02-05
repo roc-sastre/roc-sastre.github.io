@@ -58,8 +58,7 @@ Planned: academic submissions following completion of an MSc.
 # Code & Reproducibility
 
 I publish code and scripts (deep learning + econometrics) in a public repository. Expect:
-- Jupyter notebooks with reproducible analyses
-- Python packages / helper scripts for data preprocessing and model evaluation
+- Python and R packages / helper scripts for data preprocessing and model evaluation
 - Clear READMEs and usage examples
 
 _Last updated: February 2026_
