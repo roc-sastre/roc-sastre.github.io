@@ -34,3 +34,7 @@ The project studies the effectiveness of monetary policy before, during, and aft
 - Impulse Response Functions (IRFs)
 - Historical Decompositions (HDs)
 - Time-series preprocessing and stationarity analysis
+
+## GitHub repository
+
+To access all the materials (scripts, results and documentation) check my [GitHub repository](https://github.com/roc-sastre/Final-Degree-Project---Monetary-Policy-and-the-Pandemic) of this project.
