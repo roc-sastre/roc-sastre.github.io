@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# Quantitative Economics & Finance
-
 I am Roc, a graduate in **Economics** and **Statistics** (University of Barcelona & UPC).  
 My research interest lies at the intersection of economics, finance and data science: I apply econometric, statistical and machine learning methods to identify and model the dynamics that structure economic systems and financial variables.
 
@@ -30,7 +28,7 @@ I will be publishing personal projects and reproducible code while preparing app
 - Deep learning code for both finance-related and broader applications
 - Short project write-ups and reproducible results
 
-See the **Projects** page for ongoing work: `/publications`.
+See the [Projects](https://roc-sastre.github.io/publications) page for ongoing work.
 
 ---
 
@@ -38,7 +36,7 @@ See the **Projects** page for ongoing work: `/publications`.
 
 Occasionally I publish less data-driven essays discussing economic and financial issues from a logical and analytical perspective. These pieces are intended to complement the more technical work with policy-oriented and conceptual discussion.
 
-Read posts on the **Blog**: `/posts`.
+Read posts on the [Blog](https://roc-sastre.github.io/posts).
 
 ---
 
@@ -51,7 +49,7 @@ Read posts on the **Blog**: `/posts`.
 
 # Publications & Reports
 
-I have not yet published peer-reviewed academic articles. My undergraduate capstone (double degree final project) analyzed the effects of monetary policy during the COVID-19 era — available here: `/files/TFG-ECOEST_Sastre_2025.pdf`.
+I have not yet published peer-reviewed academic articles. My undergraduate capstone (double degree final project) analyzed the effects of monetary policy during the COVID-19 era — available [here](https://roc-sastre.github.io/files/TFG-ECOEST_Sastre_2025.pdf).
 
 Planned: academic submissions following completion of an MSc.
 
