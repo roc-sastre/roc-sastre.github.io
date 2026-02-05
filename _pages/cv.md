@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV — Roc Sastre"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
