@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Monetary Policy and the Pandemic"
+excerpt: "SVAR Analysis of Monetary Policy in the COVID-19 Era<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+The project studies the effectiveness of monetary policy before, during, and after COVID-19 in the euro area and the United States using Structural Vector Autoregression (SVAR) models with sign restrictions, grounded in a New Keynesian framework.
