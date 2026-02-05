@@ -51,7 +51,7 @@ Read posts on the **Blog**: `/posts`.
 
 # Publications & Reports
 
-I have not yet published peer-reviewed academic articles. My undergraduate capstone (double degree final project) analyzed the effects of monetary policy during the COVID-19 era — available here: `/files/TFG-Roc.pdf`.
+I have not yet published peer-reviewed academic articles. My undergraduate capstone (double degree final project) analyzed the effects of monetary policy during the COVID-19 era — available here: `/files/TFG-ECOEST_Sastre_2025.pdf`.
 
 Planned: academic submissions following completion of an MSc.
 
