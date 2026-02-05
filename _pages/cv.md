@@ -9,14 +9,11 @@ redirect_from:
 {% include base_path %}
 
 # Education
-* **Double Degree — Economics & Statistics**  
+* **Double Degree — Economics & Statistics (2020-2026)**  
   University of Barcelona / Polytechnic University of Catalonia — Completed up to 5th year (GPA: 8.55). 10 honour distinctions.
-* **Yale University** — *Financial Markets* (with honors).
-* **Columbia University** — *Economics of Money and Banking*.
-* **University of Amsterdam** — *Logic for Economists*.
 * **Institut Pau Vila (Sabadell)**  
-  * Educació Secundària Obligatòria — Avg: 8.3.  
-  * Batxillerat Científic — Avg: 9.3.
+  * Compulsory Secondary Education (2014–2018) — Avg: 8.3.  
+  * Upper Secondary Education – Science Track (Spanish Bachillerato; 2018-2020) — Avg: 9.3.
 
 # Professional Experience
 * **Data Analytics & Insurance** — Grupo Catalana Occident (2026 - present)  
@@ -59,9 +56,12 @@ redirect_from:
 * English — advanced (C1).
 
 # Courses & Certifications
-* **Google** — Machine Learning Crash Course.
-* **IBM** — Machine Learning with Python; Introduction to Deep Learning & Neural Networks with Keras; Deep Learning with Keras and TensorFlow; Introduction to Neural Networks and PyTorch. 
-* **Adecco** — Theoretical formation for the commercial network of Banco Sabadell.
+* **Google** — *Machine Learning Crash Course*.
+* **IBM** — *Machine Learning with Python; Introduction to Deep Learning & Neural Networks with Keras; Deep Learning with Keras and TensorFlow; Introduction to Neural Networks and PyTorch*. 
+* **Adecco** — *Theoretical formation for the commercial network of Banco Sabadell*.
+* **Yale University** — *Financial Markets* (with honors).
+* **Columbia University** — *Economics of Money and Banking*.
+* **University of Amsterdam** — *Logic for Economists*.
 
 # Service & Leadership
 * Actor, local theatre production (see "Els Pastorets").
