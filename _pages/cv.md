@@ -22,7 +22,7 @@ redirect_from:
 * **Financial Planning & Analysis Intern** — Banc Sabadell, S.A. (2025)  
   Budget analysis; preparation of financial statements.
 
-* **Data Analytics & Insurance** — Grupo Catalana Occident (date unspecified)  
+* **Data Analytics & Insurance** — Grupo Catalana Occident (2026 - present)  
   Dataset and customer analysis; risk assessment.
 
 * **Commercial and Cash Management** — (2021–2025)  
