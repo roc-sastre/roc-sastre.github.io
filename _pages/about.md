@@ -7,59 +7,77 @@ redirect_from:
   - /about.html
 ---
 
-I am Roc, a graduate in **Economics** and **Statistics** (University of Barcelona & UPC).  
-My research interest lies at the intersection of economics, finance and data science: I apply econometric, statistical and machine learning methods to identify and model the dynamics that structure economic systems and financial variables.
+I am Roc Sastre, an economist and statistician with research interests at the intersection of **economics, finance, econometrics, and data science**.
+
+My work is primarily concerned with understanding the mechanisms underlying economic and financial dynamics, with particular emphasis on **monetary policy, financial intermediation, financial markets, and quantitative methods**. I am particularly interested in combining econometric and statistical techniques with modern computational and machine learning methods to study economic systems and identify their underlying structure.
+
+## Research Interests
+
+My current research interests include:
+
+* **Monetary economics and financial economics**
+* **Financial intermediation and the transmission of economic shocks**
+* **Econometrics and time-series analysis**
+* **Quantitative methods and causal inference**
+* **Machine learning and statistical learning in economics and finance**
+* **Financial markets and risk modelling**
+
+More broadly, I am interested in quantitative approaches that connect economic theory with empirical and computational methods.
+
+## Research Projects
+
+I am currently developing research projects in quantitative economics and finance, with an emphasis on **empirical identification, structural modelling, and computational methods**.
+
+My ongoing work includes projects involving:
+
+* Econometric and statistical analysis of economic and financial time series
+* Structural models of financial intermediation and monetary transmission
+* Simulation-based estimation and computational methods
+* Machine learning and deep learning for economic and financial applications
+* Reproducible research using **Python, R, and MATLAB**
+
+Project notes, code, and selected results will be made available as the work develops.
+
+See the [Projects](https://roc-sastre.github.io/publications) page for ongoing and completed work.
+
+## Writing
+
+Alongside my quantitative research, I occasionally write essays on **economic, financial, and broader conceptual questions**.
+
+These pieces are less technical than my research projects and are intended as a space for analytical discussion of economic institutions, financial systems, monetary policy, and related ideas.
+
+Selected essays and posts are available on the [Blog](https://roc-sastre.github.io/posts).
+
+## Education & Experience
+
+My academic background combines **Economics and Statistics**, with training in quantitative methods, econometrics, programming, and applied economics.
+
+I also have professional experience in **banking and insurance**, which has provided practical exposure to financial institutions, markets, and the application of quantitative methods to real-world financial problems.
+
+## Publications & Academic Work
+
+I do not yet have peer-reviewed publications.
+
+My undergraduate double-degree thesis examined the **effects of monetary policy during the COVID-19 period**, combining economic analysis with empirical methods.
+
+[Read the thesis](https://roc-sastre.github.io/files/TFG-ECOEST_Sastre_2025.pdf).
+
+Further academic work and research outputs will be added here as they become available.
+
+## Code & Reproducibility
+
+I believe that computational research should be **transparent, reproducible, and accessible**.
+
+My public repositories contain code and supporting materials for quantitative projects, including:
+
+* Python and R implementations for data analysis and modelling
+* Econometric and statistical routines
+* Machine learning and deep learning experiments
+* Data-processing and model-evaluation tools
+* Reproducible notebooks and documentation
+
+The code is available through my [GitHub repository](https://github.com/roc-sastre).
 
 ---
 
-# Research focus
-
-- Quantitative economics and quantitative finance  
-- Econometric methods, time-series analysis, causal inference  
-- Machine learning & deep learning applied to economic/financial data  
-- Current interests: monetary policy effects, financial markets dynamics, risk modelling
-
----
-
-# Projects & Work-in-Progress
-
-I will be publishing personal projects and reproducible code while preparing applications for an MSc in Economics / Quantitative Finance. Expect:
-- Reproducible notebooks and scripts (Python, R, Matlab)
-- Deep learning code for both finance-related and broader applications
-- Short project write-ups and reproducible results
-
-See the [Projects](https://roc-sastre.github.io/publications) page for ongoing work.
-
----
-
-# Writing & Blog
-
-Occasionally I publish less data-driven essays discussing economic and financial issues from a logical and analytical perspective. These pieces are intended to complement the more technical work with policy-oriented and conceptual discussion.
-
-Read posts on the [Blog](https://roc-sastre.github.io/posts).
-
----
-
-# Experience
-
-- Professional experience in **banking** and **insurance** — applied quantitative work and practical exposure to financial systems.  
-- Strong foundation in statistics, programming and applied economics.
-
----
-
-# Publications & Reports
-
-I have not yet published peer-reviewed academic articles. My undergraduate capstone (double degree final project) analyzed the effects of monetary policy during the COVID-19 era — available [here](https://roc-sastre.github.io/files/TFG-ECOEST_Sastre_2025.pdf).
-
-Planned: academic submissions following completion of an MSc.
-
----
-
-# Code & Reproducibility
-
-I publish code and scripts (deep learning + econometrics) in a public repository. Expect:
-- Python and R packages / helper scripts for data preprocessing and model evaluation
-- Clear READMEs and usage examples
-
-_Last updated: February 2026_
-
+*Last updated: September 2026*
