@@ -18,6 +18,22 @@ redirect_from:
     <div class="cv-entries">
 
       <article class="cv-entry">
+        <div class="cv-entry__period">2026 — Present</div>
+
+        <div class="cv-entry__main">
+          <h3>Master in Financial Economics</h3>
+
+          <p class="cv-entry__institution">
+            Barcelona School of Economics
+          </p>
+
+          <p class="cv-entry__description">
+            Just started.
+          </p>
+        </div>
+      </article>
+
+      <article class="cv-entry">
         <div class="cv-entry__period">2020 — 2026</div>
 
         <div class="cv-entry__main">
@@ -28,8 +44,7 @@ redirect_from:
           </p>
 
           <p class="cv-entry__description">
-            Completed up to the fifth year of the double degree.
-            <strong>GPA: 8.55</strong> · 10 honour distinctions.
+            <strong>GPA: 8.55</strong> · 12 honour distinctions.
           </p>
         </div>
       </article>
@@ -80,7 +95,7 @@ redirect_from:
     <div class="cv-entries">
 
       <article class="cv-entry">
-        <div class="cv-entry__period">2026 — Present</div>
+        <div class="cv-entry__period">2026</div>
 
         <div class="cv-entry__main">
           <h3>Data Analytics &amp; Insurance</h3>
@@ -208,7 +223,7 @@ redirect_from:
           </p>
         </div>
 
-        <span>2023 — 2024</span>
+        <span>2023 — 2026</span>
       </article>
 
     </div>
@@ -333,6 +348,15 @@ redirect_from:
       <article class="cv-compact-item">
         <div>
           <h3>Actor · “Els Pastorets”</h3>
+          <p>
+            Local theatre production.
+          </p>
+        </div>
+      </article>
+
+      <article class="cv-compact-item">
+        <div>
+          <h3>Director · “Job”</h3>
           <p>
             Local theatre production.
           </p>
