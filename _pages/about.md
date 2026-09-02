@@ -138,7 +138,7 @@ redirect_from:
     </div>
 
     <a
-      href="{{ '/posts/the-genius-of-the-lagrangian/' | relative_url }}"
+      href="{{ '/_posts/2026-02-05-blog-post-1.md/' | relative_url }}"
       class="home-link"
       aria-label="Read The genius of the Lagrangian"
     >
