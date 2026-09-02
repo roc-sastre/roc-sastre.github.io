@@ -343,3 +343,33 @@
     gap: 0.25rem;
   }
 }
+
+/* ==========================================================================
+   RESEARCH TOPICS
+   ========================================================================== */
+
+.home-card__topics {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+
+  margin-top: 1.5rem;
+  padding-top: 1rem;
+
+  border-top: 1px solid var(--global-border-color);
+}
+
+.home-card__topics span {
+  font-size: 0.68rem;
+  font-weight: 600;
+
+  color: var(--global-text-color-light);
+}
+
+.home-card__topics span:not(:last-child)::after {
+  content: "·";
+
+  margin-left: 0.4rem;
+
+  color: var(--global-link-color);
+}
