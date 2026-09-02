@@ -1,168 +1,92 @@
 ---
-layout: splash
+
 permalink: /
-title: ""
-author_profile: false
+title: "Roc Sastre Costa"
+author_profile: true
 redirect_from:
-  - /about/
-  - /about.html
+
+- /about/
+- /about.html
+
 ---
 
-{% include home-hero.html %}
+I am an economist and statistician interested in the intersection of **economics, finance, econometrics, statistics, and data science**.
 
-<section class="home-section home-section--research">
-  <div class="home-section__header">
-    <span class="home-eyebrow">Research interests</span>
-    <h2>Quantitative approaches to economics and finance.</h2>
-    <p>
-      My work sits at the intersection of economics, finance, econometrics,
-      statistics, and data science.
-    </p>
-  </div>
+My work focuses on understanding economic and financial dynamics through quantitative methods, with particular interests in **monetary policy, financial intermediation, financial markets, and empirical methods**. I am especially interested in combining economic theory with econometric, statistical, and computational techniques to study economic systems and identify their underlying structure.
 
-  <div class="home-grid home-grid--research">
+## Research Interests
 
-    <article class="home-card">
-      <span class="home-card__number">01</span>
-      <h3>Monetary Economics</h3>
-      <p>
-        Monetary policy, transmission mechanisms, and the interaction between
-        macroeconomic and financial dynamics.
-      </p>
-    </article>
+My main research interests include:
 
-    <article class="home-card">
-      <span class="home-card__number">02</span>
-      <h3>Financial Econometrics</h3>
-      <p>
-        Time-series analysis, empirical identification, causal inference,
-        and statistical modelling of financial data.
-      </p>
-    </article>
+* **Monetary economics and financial economics**
+* **Financial intermediation and the transmission of economic shocks**
+* **Econometrics and time-series analysis**
+* **Quantitative methods and causal inference**
+* **Machine learning and statistical learning in economics and finance**
+* **Financial markets and risk modelling**
 
-    <article class="home-card">
-      <span class="home-card__number">03</span>
-      <h3>Machine Learning</h3>
-      <p>
-        Statistical learning and computational methods for understanding
-        economic and financial systems.
-      </p>
-    </article>
+More broadly, I am interested in quantitative approaches that connect economic theory with empirical and computational methods.
 
-    <article class="home-card">
-      <span class="home-card__number">04</span>
-      <h3>Financial Markets</h3>
-      <p>
-        Financial intermediation, risk modelling, market dynamics,
-        and quantitative applications.
-      </p>
-    </article>
+## Research Projects
 
-  </div>
-</section>
+I am currently developing research projects in **quantitative economics and finance**, with an emphasis on empirical identification, structural modelling, and computational methods.
 
+My ongoing work includes:
 
-<section class="home-section home-section--featured">
-  <div class="home-section__header">
-    <span class="home-eyebrow">Featured research</span>
-    <h2>Monetary Policy and the Pandemic</h2>
-    <p>
-      An empirical study of the effects of monetary policy during the
-      COVID-19 period using structural vector autoregressive methods.
-    </p>
-  </div>
+* Econometric and statistical analysis of economic and financial time series
+* Structural models of financial intermediation and monetary transmission
+* Simulation-based estimation and computational methods
+* Machine learning and deep learning for economic and financial applications
+* Reproducible research using **Python, R, and MATLAB**
 
-  <div class="home-feature">
+My first major research project examined the effects of monetary policy during the COVID-19 period using structural vector autoregressive methods.
 
-    <div class="home-feature__image">
-      <img
-        src="{{ '/images/TFG-ECOEST_Sastre_2025.png' | relative_url }}"
-        alt="Monetary Policy and the Pandemic research project"
-      >
-    </div>
+[Explore my projects](https://roc-sastre.github.io/portfolio/).
 
-    <div class="home-feature__content">
-      <span class="home-feature__tag">Econometrics · Monetary Policy · SVAR</span>
+## Writing
 
-      <h3>Monetary Policy and the Pandemic</h3>
+Alongside my quantitative research, I occasionally write about **economics, finance, mathematics, and broader conceptual questions**.
 
-      <p>
-        Undergraduate thesis examining the effects of monetary policy during
-        the COVID-19 period through empirical and quantitative methods.
-      </p>
+These pieces are less technical than my research projects and provide a space for exploring ideas that connect economic theory, mathematical reasoning, financial systems, and everyday intuition.
 
-      <div class="home-actions">
-        <a
-          href="{{ '/files/TFG-ECOEST_Sastre_2025.pdf' | relative_url }}"
-          class="btn btn--primary"
-        >
-          Read thesis
-        </a>
+One recent example is:
 
-        <a
-          href="{{ '/portfolio/' | relative_url }}"
-          class="home-link"
-        >
-          View projects <span aria-hidden="true">→</span>
-        </a>
-      </div>
-    </div>
+**[The genius of the Lagrangian](https://roc-sastre.github.io/posts/2026/08/blog-post-1/)**
 
-  </div>
-</section>
+Selected essays and posts are available in the [writing archive](https://roc-sastre.github.io/year-archive/).
 
+## Education & Experience
 
-<section class="home-section home-section--writing">
-  <div class="home-section__header home-section__header--row">
-    <div>
-      <span class="home-eyebrow">Writing</span>
-      <h2>Ideas beyond the research.</h2>
-    </div>
+My academic background combines **Economics and Statistics**, with training in quantitative methods, econometrics, programming, and applied economics.
 
-    <a
-      href="{{ '/year-archive/' | relative_url }}"
-      class="home-link"
-    >
-      View all writing <span aria-hidden="true">→</span>
-    </a>
-  </div>
+I also have professional experience in **banking and insurance**, providing practical exposure to financial institutions, markets, and the application of quantitative methods to real-world financial problems.
 
-  <article class="home-writing-card">
-    <div>
-      <span class="home-writing-card__meta">Essay · 2026</span>
-      <h3>The genius of the Lagrangian</h3>
-      <p>
-        An accessible exploration of constrained optimisation and why the
-        Lagrangian is such a powerful idea in economics and mathematics.
-      </p>
-    </div>
+For a detailed overview of my academic and professional background, see my [CV](https://roc-sastre.github.io/cv/).
 
-    <a
-      href="{{ '/posts/the-genius-of-the-lagrangian/' | relative_url }}"
-      class="home-link"
-      aria-label="Read The genius of the Lagrangian"
-    >
-      Read article <span aria-hidden="true">→</span>
-    </a>
-  </article>
-</section>
+## Academic Work
 
+I do not yet have peer-reviewed publications.
 
-<section class="home-section home-section--contact">
-  <div class="home-contact">
-    <div>
-      <span class="home-eyebrow">Get in touch</span>
-      <h2>Interested in quantitative economics and finance?</h2>
-      <p>
-        Explore my projects, research interests, and academic work.
-      </p>
-    </div>
+My undergraduate double-degree thesis examined the **effects of monetary policy during the COVID-19 period**, combining economic analysis with empirical and quantitative methods.
 
-    <a
-      href="mailto:rocsastre.research@gmail.com"
-      class="btn btn--primary"
-    >
-      Contact me
-    </a>
-  </div>
-</section>
+[Read the thesis](https://roc-sastre.github.io/files/TFG-ECOEST_Sastre_2025.pdf).
+
+Further academic work and research outputs will be added as they develop.
+
+## Code & Reproducibility
+
+I believe that computational research should be **transparent, reproducible, and accessible**.
+
+My public repositories contain code and supporting materials for quantitative projects, including:
+
+* Data analysis and statistical modelling in **Python and R**
+* Econometric and time-series routines
+* Machine learning and deep learning experiments
+* Data-processing and model-evaluation tools
+* Reproducible notebooks and documentation
+
+The code is available on [GitHub](https://github.com/roc-sastre).
+
+---
+
+*Last updated: September 2026*
