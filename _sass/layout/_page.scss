@@ -578,3 +578,67 @@ html[data-theme="dark"] .project-cover {
     font-size: 0.98rem;
   }
 }
+
+/* ==========================================================================
+   WRITING SINGLE PAGE
+   ========================================================================== */
+
+.page--writing .page__title {
+  max-width: 850px;
+
+  margin-bottom: 0.75rem;
+
+  font-size: clamp(2.5rem, 5vw, 4.5rem);
+  line-height: 1.05;
+  letter-spacing: -0.035em;
+}
+
+.page--writing .page__content {
+  max-width: 760px;
+}
+
+.page--writing .page__content p {
+  font-size: 1.02rem;
+  line-height: 1.85;
+}
+
+.page--writing .page__content h2 {
+  margin-top: 3rem;
+
+  font-size: 1.8rem;
+}
+
+.page--writing .page__content h3 {
+  margin-top: 2.5rem;
+
+  font-size: 1.3rem;
+}
+
+.page--writing .page__content blockquote {
+  margin-left: 0;
+  padding-left: 1.25rem;
+
+  border-left: 3px solid var(--global-link-color);
+
+  color: var(--global-text-color-light);
+}
+
+.page--writing .page__content img {
+  border-radius: 12px;
+}
+
+.page--writing .page__content code {
+  border-radius: 5px;
+}
+
+@media (max-width: 600px) {
+
+  .page--writing .page__title {
+    font-size: 2.6rem;
+  }
+
+  .page--writing .page__content p {
+    font-size: 0.98rem;
+  }
+
+}
