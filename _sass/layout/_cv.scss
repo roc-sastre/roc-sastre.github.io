@@ -357,4 +357,8 @@ html[data-theme="dark"] .cv-page {
     order: -1;
   }
 
+  .cv-compact-item--no-date > span {
+  color: var(--global-text-color-light);
+}
+
 }
