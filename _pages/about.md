@@ -11,99 +11,54 @@ redirect_from:
 {% include home-hero.html %}
 
 <section class="home-section home-section--research">
-
   <div class="home-section__header">
     <span class="home-eyebrow">Research interests</span>
-
-    <h2>
-      Understanding economic and financial systems
-      through quantitative methods.
-    </h2>
-
+    <h2>Quantitative approaches to economics and finance.</h2>
     <p>
-      My interests lie at the intersection of economics, finance,
-      econometrics, statistics, and data science. I am particularly
-      interested in combining economic theory with empirical and
-      computational methods.
+      My work sits at the intersection of economics, finance, econometrics,
+      statistics, and data science.
     </p>
   </div>
-
 
   <div class="home-grid home-grid--research">
 
     <article class="home-card">
       <span class="home-card__number">01</span>
-
       <h3>Monetary Economics</h3>
-
       <p>
-        Monetary policy, transmission mechanisms, and the interaction
-        between macroeconomic and financial dynamics.
+        Monetary policy, transmission mechanisms, and the interaction between
+        macroeconomic and financial dynamics.
       </p>
-
-      <div class="home-card__topics">
-        <span>Monetary policy</span>
-        <span>Macro-finance</span>
-        <span>Transmission</span>
-      </div>
     </article>
-
 
     <article class="home-card">
       <span class="home-card__number">02</span>
-
       <h3>Financial Econometrics</h3>
-
       <p>
-        Time-series analysis, structural identification, causal inference,
-        and statistical modelling of economic and financial data.
+        Time-series analysis, empirical identification, causal inference,
+        and statistical modelling of financial data.
       </p>
-
-      <div class="home-card__topics">
-        <span>Time series</span>
-        <span>SVAR</span>
-        <span>Causal inference</span>
-      </div>
     </article>
-
 
     <article class="home-card">
       <span class="home-card__number">03</span>
-
       <h3>Machine Learning</h3>
-
       <p>
-        Statistical learning and computational methods for analysing
+        Statistical learning and computational methods for understanding
         economic and financial systems.
       </p>
-
-      <div class="home-card__topics">
-        <span>Machine learning</span>
-        <span>Deep learning</span>
-        <span>Data science</span>
-      </div>
     </article>
-
 
     <article class="home-card">
       <span class="home-card__number">04</span>
-
       <h3>Financial Markets</h3>
-
       <p>
-        Financial intermediation, market dynamics, risk modelling,
-        and quantitative applications in finance.
+        Financial intermediation, risk modelling, market dynamics,
+        and quantitative applications.
       </p>
-
-      <div class="home-card__topics">
-        <span>Financial markets</span>
-        <span>Risk</span>
-        <span>Intermediation</span>
-      </div>
     </article>
 
   </div>
-
 </section>
 
 
