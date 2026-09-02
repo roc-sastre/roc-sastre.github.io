@@ -338,32 +338,36 @@ redirect_from:
 
 
   <section class="cv-section cv-section--last">
-    <div class="cv-section__heading">
-      <span class="cv-eyebrow">06</span>
-      <h2>Service &amp; Leadership</h2>
-    </div>
+  <div class="cv-section__heading">
+    <span class="cv-eyebrow">06</span>
+    <h2>Service &amp; Leadership</h2>
+  </div>
 
-    <div class="cv-compact-list">
+  <div class="cv-compact-list">
 
-      <article class="cv-compact-item">
-        <div>
-          <h3>Actor · “Els Pastorets”</h3>
-          <p>
-            Local theatre production.
-          </p>
-        </div>
-      </article>
+    <article class="cv-compact-item cv-compact-item--no-date">
+      <div>
+        <h3>Actor · “Els Pastorets”</h3>
+        <p>
+          Local theatre production.
+        </p>
+      </div>
 
-      <article class="cv-compact-item">
-        <div>
-          <h3>Director · “Job”</h3>
-          <p>
-            Local theatre production.
-          </p>
-        </div>
-      </article>
+      <span>2023 — 2026</span>
+    </article>
 
-    </div>
-  </section>
+    <article class="cv-compact-item cv-compact-item--no-date">
+      <div>
+        <h3>Director · “Job”</h3>
+        <p>
+          Local theatre production.
+        </p>
+      </div>
+
+      <span>—</span>
+    </article>
+
+  </div>
+</section>
 
 </div>
