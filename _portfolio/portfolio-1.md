@@ -1,7 +1,14 @@
 ---
 title: "Monetary Policy and the Pandemic"
-excerpt: "SVAR Analysis of Monetary Policy in the COVID-19 Era<br/><img src='/images/TFG-ECOEST_Sastre_2025.png'>"
+excerpt: "An empirical study of monetary policy during the COVID-19 period using structural vector autoregressive methods."
 collection: portfolio
+header:
+  teaser: TFG-ECOEST_Sastre_2025.png
+tags:
+  - Monetary Policy
+  - Econometrics
+  - SVAR
+  - Time Series
 ---
 
 ### SVAR Analysis of Monetary Policy in the COVID-19 Era
