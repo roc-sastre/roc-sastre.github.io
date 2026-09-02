@@ -364,7 +364,7 @@ redirect_from:
         </p>
       </div>
 
-      <span>—</span>
+      <span>2026</span>
     </article>
 
   </div>
