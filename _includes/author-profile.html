@@ -8,28 +8,28 @@
 
 <div class="author-profile" itemscope itemtype="http://schema.org/Person">
 
-  <div class="author-profile__avatar">
-    {% if author.avatar contains "://" %}
-      <img
-        src="{{ author.avatar }}"
-        alt="{{ author.name }}"
-        fetchpriority="high"
-      />
-    {% else %}
-      <img
-        src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}"
-        alt="{{ author.name }}"
-        fetchpriority="high"
-      />
-    {% endif %}
-  </div>
+{% if author.avatar %} <div class="author-profile__avatar">
+{% if author.avatar contains "://" %} <img
+       src="{{ author.avatar }}"
+       alt="{{ author.name }}"
+       fetchpriority="high"
+     >
+{% else %}
+<img
+src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}"
+alt="{{ author.name }}"
+fetchpriority="high"
+>
+{% endif %} </div>
+{% endif %}
 
   <div class="author-profile__identity">
-    <h3 class="author-profile__name" itemprop="name">
-      {{ author.name }}
-    </h3>
 
 ```
+<h3 class="author-profile__name" itemprop="name">
+  {{ author.name }}
+</h3>
+
 {% if author.bio %}
   <p class="author-profile__bio" itemprop="jobTitle">
     {{ author.bio }}
