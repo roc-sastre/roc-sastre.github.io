@@ -49,3 +49,6 @@ The main empirical results and figures are presented in the full dissertation.
 ## Repository
 
 The complete code and supporting materials are available on GitHub.
+
+This thesis provided the starting point for the later [research note on computational success and residual adequacy](/portfolio/bvar-residual-adequacy/).
+
