@@ -37,8 +37,8 @@ impulse-response estimates are excluded.
 
 - [Read the research-note PDF](https://github.com/roc-sastre/bvar-residual-adequacy/blob/main/manuscript/research_note.pdf)
 - [Diagnostic replication package on GitHub](https://github.com/roc-sastre/bvar-residual-adequacy)
-- Release v1.0.0: pending Zenodo integration and release publication.
-- Permanent archive and DOI: pending Zenodo activation and archival verification.
+- [Release v1.0.0](https://github.com/roc-sastre/bvar-residual-adequacy/releases/tag/v1.0.0)
+- [Permanent archive: DOI 10.5281/zenodo.23195194](https://doi.org/10.5281/zenodo.23195194)
 
 The verification script is licensed under MIT. The manuscript, documentation
 and diagnostic records are licensed under Creative Commons Attribution 4.0
@@ -46,3 +46,4 @@ International.
 
 The [historical undergraduate thesis](/portfolio/portfolio-1/) provided the
 starting point for this later research note.
+
