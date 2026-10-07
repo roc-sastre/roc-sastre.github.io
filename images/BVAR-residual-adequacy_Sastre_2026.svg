@@ -1,16 +1,83 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="532" viewBox="0 0 960 532" role="img" aria-labelledby="title desc">
-  <title id="title">Computational success and residual-adequacy limits in a small US Bayesian VAR</title>
-  <desc id="desc">Research note cover by Roc Sastre, 6 October 2026.</desc>
-  <rect width="960" height="532" fill="#f7f7f5"/>
-  <rect x="34" y="34" width="892" height="464" rx="2" fill="#ffffff" stroke="#d8d8d3" stroke-width="2"/>
-  <text x="82" y="104" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="#555555">RESEARCH NOTE · 6 OCTOBER 2026</text>
-  <line x1="82" y1="128" x2="878" y2="128" stroke="#c7c7c2" stroke-width="2"/>
-  <text x="82" y="194" font-family="Georgia, 'Times New Roman', serif" font-size="39" font-weight="700" fill="#1f1f1f">
-    <tspan x="82" dy="0">Computational success and</tspan>
-    <tspan x="82" dy="50">residual-adequacy limits in a</tspan>
-    <tspan x="82" dy="50">small US Bayesian VAR</tspan>
-  </text>
-  <text x="82" y="385" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#333333">Roc Sastre</text>
-  <text x="82" y="421" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#666666">MSc Financial Economics · Barcelona School of Economics</text>
-  <text x="82" y="463" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#777777">Diagnostic case study · Bayesian VAR · residual adequacy · reproducibility</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">Stylized Bayesian VAR diagnostic plots</title>
+  <desc id="desc">Four simplified MCMC diagnostic panels based on the research note's chain-rank and trace plots.</desc>
+
+  <defs>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="4" stdDeviation="7" flood-color="#6f7890" flood-opacity=".14"/>
+    </filter>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fbfaf7"/>
+      <stop offset="1" stop-color="#f7f9ff"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="960" height="540" fill="url(#bg)"/>
+  <path d="M0 405 C150 360 255 485 410 438 S690 350 960 410 L960 540 L0 540 Z" fill="#e9edff" opacity=".72"/>
+  <path d="M540 0 C700 12 770 110 960 68 L960 0 Z" fill="#eef2ff" opacity=".95"/>
+  <path d="M0 492 C160 450 245 535 400 495 S670 456 960 505" fill="none" stroke="#7588ff" stroke-width="2" opacity=".45"/>
+  <path d="M0 510 C165 470 255 548 430 510 S710 475 960 522" fill="none" stroke="#b39cff" stroke-width="2" opacity=".35"/>
+
+  <g filter="url(#shadow)">
+    <rect x="58" y="42" width="390" height="205" rx="18" fill="#fff"/>
+    <rect x="512" y="42" width="390" height="205" rx="18" fill="#fff"/>
+    <rect x="58" y="285" width="390" height="205" rx="18" fill="#fff"/>
+    <rect x="512" y="285" width="390" height="205" rx="18" fill="#fff"/>
+  </g>
+
+  <!-- Monitor 67: pooled-rank step plot -->
+  <g font-family="Arial, Helvetica, sans-serif" fill="#1f2937">
+    <text x="253" y="67" text-anchor="middle" font-size="14" font-weight="700">Monitor 67</text>
+    <line x1="95" y1="210" x2="416" y2="210" stroke="#263244" stroke-width="1.2"/>
+    <line x1="95" y1="82" x2="95" y2="210" stroke="#263244" stroke-width="1.2"/>
+    <text x="255" y="232" text-anchor="middle" font-size="11">Pooled rank</text>
+  </g>
+  <g fill="none" stroke-width="2">
+    <path d="M95 204 L110 204 L110 118 L130 118 L130 100 L150 100 L150 126 L170 126 L170 112 L190 112 L190 136 L210 136 L210 96 L230 96 L230 124 L250 124 L250 108 L270 108 L270 146 L290 146 L290 106 L310 106 L310 126 L330 126 L330 98 L350 98 L350 138 L370 138 L370 112 L392 112 L392 204 L416 204" stroke="#7f2aff"/>
+    <path d="M95 204 L110 204 L110 132 L130 132 L130 148 L150 148 L150 120 L170 120 L170 108 L190 108 L190 128 L210 128 L210 116 L230 116 L230 98 L250 98 L250 140 L270 140 L270 118 L290 118 L290 128 L310 128 L310 104 L330 104 L330 142 L350 142 L350 118 L370 118 L370 96 L392 96 L392 204 L416 204" stroke="#f36a1b"/>
+    <path d="M95 204 L110 204 L110 126 L130 126 L130 110 L150 110 L150 118 L170 118 L170 136 L190 136 L190 106 L210 106 L210 122 L230 122 L230 146 L250 146 L250 116 L270 116 L270 108 L290 108 L290 100 L310 100 L310 136 L330 136 L330 122 L350 122 L350 108 L370 108 L370 132 L392 132 L392 204 L416 204" stroke="#1687e0"/>
+    <path d="M95 204 L110 204 L110 140 L130 140 L130 126 L150 126 L150 140 L170 140 L170 120 L190 120 L190 110 L210 110 L210 132 L230 132 L230 116 L250 116 L250 100 L270 100 L270 126 L290 126 L290 116 L310 116 L310 130 L330 130 L330 114 L350 114 L350 126 L370 126 L370 116 L392 116 L392 204 L416 204" stroke="#f0ad00"/>
+  </g>
+
+  <!-- Monitor 72: trace plot -->
+  <g font-family="Arial, Helvetica, sans-serif" fill="#1f2937">
+    <text x="707" y="67" text-anchor="middle" font-size="14" font-weight="700">Monitor 72</text>
+    <line x1="548" y1="210" x2="869" y2="210" stroke="#263244" stroke-width="1.2"/>
+    <line x1="548" y1="82" x2="548" y2="210" stroke="#263244" stroke-width="1.2"/>
+    <text x="709" y="232" text-anchor="middle" font-size="11">Retained iteration</text>
+  </g>
+  <g fill="none" stroke-width="1.3" opacity=".95">
+    <path d="M548 146 L556 131 L564 166 L572 125 L580 155 L588 137 L596 171 L604 128 L612 149 L620 138 L628 164 L636 130 L644 152 L652 141 L660 165 L668 126 L676 157 L684 135 L692 169 L700 127 L708 154 L716 139 L724 162 L732 130 L740 151 L748 136 L756 167 L764 129 L772 155 L780 141 L788 164 L796 127 L804 153 L812 138 L820 169 L828 131 L836 156 L844 140 L852 166 L860 132 L869 151" stroke="#7f2aff"/>
+    <path d="M548 160 L556 139 L564 151 L572 170 L580 133 L588 157 L596 143 L604 166 L612 136 L620 154 L628 147 L636 168 L644 132 L652 159 L660 141 L668 165 L676 137 L684 154 L692 145 L700 171 L708 134 L716 158 L724 142 L732 166 L740 138 L748 156 L756 147 L764 169 L772 135 L780 160 L788 143 L796 167 L804 137 L812 155 L820 146 L828 170 L836 134 L844 158 L852 141 L860 164 L869 146" stroke="#f36a1b"/>
+    <path d="M548 139 L556 164 L564 132 L572 158 L580 142 L588 168 L596 136 L604 156 L612 145 L620 165 L628 131 L636 159 L644 140 L652 169 L660 133 L668 155 L676 143 L684 166 L692 136 L700 160 L708 141 L716 168 L724 134 L732 154 L740 144 L748 164 L756 137 L764 157 L772 142 L780 169 L788 132 L796 156 L804 145 L812 165 L820 136 L828 159 L836 141 L844 167 L852 134 L860 154 L869 143" stroke="#1687e0"/>
+    <path d="M548 151 L556 133 L564 162 L572 141 L580 167 L588 132 L596 154 L604 139 L612 168 L620 134 L628 157 L636 142 L644 166 L652 135 L660 152 L668 144 L676 169 L684 133 L692 156 L700 140 L708 165 L716 136 L724 153 L732 145 L740 168 L748 134 L756 158 L764 141 L772 166 L780 135 L788 154 L796 143 L804 169 L812 132 L820 157 L828 141 L836 165 L844 136 L852 153 L860 146 L869 167" stroke="#f0ad00"/>
+  </g>
+
+  <!-- Monitor 74: trace plot -->
+  <g font-family="Arial, Helvetica, sans-serif" fill="#1f2937">
+    <text x="253" y="310" text-anchor="middle" font-size="14" font-weight="700">Monitor 74</text>
+    <line x1="95" y1="453" x2="416" y2="453" stroke="#263244" stroke-width="1.2"/>
+    <line x1="95" y1="325" x2="95" y2="453" stroke="#263244" stroke-width="1.2"/>
+    <text x="255" y="475" text-anchor="middle" font-size="11">Retained iteration</text>
+  </g>
+  <g fill="none" stroke-width="1.25">
+    <path d="M95 390 L104 366 L113 405 L122 371 L131 396 L140 360 L149 408 L158 373 L167 398 L176 365 L185 403 L194 370 L203 395 L212 361 L221 407 L230 375 L239 399 L248 367 L257 405 L266 372 L275 396 L284 362 L293 409 L302 374 L311 400 L320 368 L329 406 L338 371 L347 397 L356 363 L365 408 L374 373 L383 399 L392 366 L401 404 L410 370 L416 391" stroke="#7f2aff"/>
+    <path d="M95 404 L104 370 L113 394 L122 362 L131 409 L140 373 L149 398 L158 365 L167 405 L176 371 L185 396 L194 360 L203 407 L212 374 L221 399 L230 366 L239 405 L248 372 L257 397 L266 361 L275 408 L284 375 L293 400 L302 367 L311 406 L320 370 L329 395 L338 363 L347 409 L356 374 L365 398 L374 366 L383 404 L392 371 L401 396 L410 362 L416 390" stroke="#f36a1b"/>
+    <path d="M95 374 L104 403 L113 368 L122 395 L131 361 L140 407 L149 372 L158 399 L167 365 L176 405 L185 370 L194 396 L203 362 L212 408 L221 373 L230 400 L239 367 L248 404 L257 371 L266 397 L275 363 L284 409 L293 374 L302 399 L311 366 L320 406 L329 370 L338 395 L347 361 L356 408 L365 373 L374 398 L383 365 L392 405 L401 371 L410 396 L416 378" stroke="#1687e0"/>
+    <path d="M95 396 L104 365 L113 406 L122 372 L131 399 L140 363 L149 408 L158 374 L167 397 L176 366 L185 404 L194 370 L203 395 L212 362 L221 409 L230 373 L239 400 L248 367 L257 405 L266 371 L275 397 L284 364 L293 408 L302 375 L311 398 L320 366 L329 406 L338 370 L347 396 L356 363 L365 409 L374 374 L383 399 L392 367 L401 405 L410 371 L416 393" stroke="#f0ad00"/>
+  </g>
+
+  <!-- Monitor 78: pooled-rank step plot -->
+  <g font-family="Arial, Helvetica, sans-serif" fill="#1f2937">
+    <text x="707" y="310" text-anchor="middle" font-size="14" font-weight="700">Monitor 78</text>
+    <line x1="548" y1="453" x2="869" y2="453" stroke="#263244" stroke-width="1.2"/>
+    <line x1="548" y1="325" x2="548" y2="453" stroke="#263244" stroke-width="1.2"/>
+    <text x="709" y="475" text-anchor="middle" font-size="11">Pooled rank</text>
+  </g>
+  <g fill="none" stroke-width="2">
+    <path d="M548 448 L564 448 L564 381 L584 381 L584 365 L604 365 L604 401 L624 401 L624 373 L644 373 L644 390 L664 390 L664 360 L684 360 L684 404 L704 404 L704 372 L724 372 L724 388 L744 388 L744 366 L764 366 L764 405 L784 405 L784 374 L804 374 L804 392 L824 392 L824 369 L844 369 L844 448 L869 448" stroke="#7f2aff"/>
+    <path d="M548 448 L564 448 L564 394 L584 394 L584 371 L604 371 L604 382 L624 382 L624 364 L644 364 L644 405 L664 405 L664 378 L684 378 L684 363 L704 363 L704 390 L724 390 L724 370 L744 370 L744 405 L764 405 L764 381 L784 381 L784 358 L804 358 L804 397 L824 397 L824 372 L844 372 L844 448 L869 448" stroke="#f36a1b"/>
+    <path d="M548 448 L564 448 L564 374 L584 374 L584 398 L604 398 L604 369 L624 369 L624 388 L644 388 L644 361 L664 361 L664 397 L684 397 L684 372 L704 372 L704 406 L724 406 L724 378 L744 378 L744 365 L764 365 L764 393 L784 393 L784 371 L804 371 L804 401 L824 401 L824 376 L844 376 L844 448 L869 448" stroke="#1687e0"/>
+    <path d="M548 448 L564 448 L564 386 L584 386 L584 362 L604 362 L604 395 L624 395 L624 371 L644 371 L644 405 L664 405 L664 367 L684 367 L684 388 L704 388 L704 365 L724 365 L724 399 L744 399 L744 373 L764 373 L764 390 L784 390 L784 364 L804 364 L804 404 L824 404 L824 375 L844 375 L844 448 L869 448" stroke="#f0ad00"/>
+  </g>
 </svg>
