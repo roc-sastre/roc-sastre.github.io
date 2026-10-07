@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="532" viewBox="0 0 960 532" role="img" aria-labelledby="title desc">
+  <title id="title">Computational success and residual-adequacy limits in a small US Bayesian VAR</title>
+  <desc id="desc">Research note cover by Roc Sastre, 6 October 2026.</desc>
+  <rect width="960" height="532" fill="#f7f7f5"/>
+  <rect x="34" y="34" width="892" height="464" rx="2" fill="#ffffff" stroke="#d8d8d3" stroke-width="2"/>
+  <text x="82" y="104" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="#555555">RESEARCH NOTE · 6 OCTOBER 2026</text>
+  <line x1="82" y1="128" x2="878" y2="128" stroke="#c7c7c2" stroke-width="2"/>
+  <text x="82" y="194" font-family="Georgia, 'Times New Roman', serif" font-size="39" font-weight="700" fill="#1f1f1f">
+    <tspan x="82" dy="0">Computational success and</tspan>
+    <tspan x="82" dy="50">residual-adequacy limits in a</tspan>
+    <tspan x="82" dy="50">small US Bayesian VAR</tspan>
+  </text>
+  <text x="82" y="385" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#333333">Roc Sastre</text>
+  <text x="82" y="421" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#666666">MSc Financial Economics · Barcelona School of Economics</text>
+  <text x="82" y="463" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#777777">Diagnostic case study · Bayesian VAR · residual adequacy · reproducibility</text>
+</svg>
