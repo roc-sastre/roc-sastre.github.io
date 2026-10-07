@@ -7,10 +7,10 @@ header:
   teaser: BVAR-residual-adequacy_Sastre_2026.svg
 
 tags:
+  - Econometrics
+  - Time Series
   - Bayesian VAR
-  - Macroeconometrics
   - Model Diagnostics
-  - Reproducibility
 
 paperurl: "https://github.com/roc-sastre/bvar-residual-adequacy/blob/main/manuscript/research_note.pdf"
 githuburl: "https://github.com/roc-sastre/bvar-residual-adequacy"
