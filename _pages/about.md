@@ -100,10 +100,10 @@ redirect_from:
         </a>
 
         <a
-          href="{{ '/portfolio/' | relative_url }}"
+          href="{{ '/research/' | relative_url }}"
           class="home-link"
         >
-          View projects <span aria-hidden="true">→</span>
+          View research <span aria-hidden="true">→</span>
         </a>
       </div>
     </div>
