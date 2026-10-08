@@ -2,6 +2,10 @@
 title: "Computational success and residual-adequacy limits in a small US Bayesian VAR"
 excerpt: "A diagnostic case study separating reliable BVAR computation and structural Monte Carlo precision from residual adequacy for substantive inference."
 collection: portfolio
+research_type: "Research Note"
+research_group: "research-note"
+redirect_from:
+  - /portfolio/portfolio-2/
 
 header:
   teaser: BVAR-residual-adequacy_Sastre_2026.svg
