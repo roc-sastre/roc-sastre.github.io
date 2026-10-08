@@ -62,7 +62,7 @@ layout: default
 
           {% if page.collection == 'portfolio' %}
             <span class="project-header__eyebrow">
-              Research project
+              {{ page.research_type | default: "Research" }}
             </span>
 
             {% if page.tags %}

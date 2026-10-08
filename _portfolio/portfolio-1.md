@@ -2,6 +2,10 @@
 title: "Monetary Policy and the Pandemic"
 excerpt: "An empirical study of monetary policy during the COVID-19 period using structural vector autoregressive methods."
 collection: portfolio
+research_type: "Undergraduate Thesis"
+research_group: "selected-work"
+redirect_from:
+  - /portfolio/portfolio-1/
 
 header:
   teaser: TFG-ECOEST_Sastre_2025.png

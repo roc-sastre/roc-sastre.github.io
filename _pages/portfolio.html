@@ -1,14 +1,87 @@
 ---
 layout: archive
-title: "Portfolio"
-permalink: /portfolio/
+title: "Research"
+permalink: /research/
 author_profile: true
+redirect_from:
+  - /portfolio/
 ---
 
 {% include base_path %}
 
-<div class="archive-grid">
-  {% for post in site.portfolio %}
-    {% include archive-single.html type="grid" %}
-  {% endfor %}
-</div>
+<p class="research-archive__intro">
+  Working papers, research notes, theses, and selected academic projects.
+  The sections below distinguish work by its current research format and stage.
+</p>
+
+{% assign working_papers = site.portfolio | where: "research_group", "working-paper" %}
+{% assign research_notes = site.portfolio | where: "research_group", "research-note" %}
+{% assign selected_work = site.portfolio | where: "research_group", "selected-work" %}
+
+<section class="research-section">
+  <div class="research-section__header">
+    <span class="research-section__eyebrow">Research</span>
+    <h2 class="research-section__title">Working Papers</h2>
+    <p class="research-section__description">
+      Ongoing research developed as paper-length contributions for academic discussion
+      and eventual submission.
+    </p>
+  </div>
+
+  {% if working_papers.size > 0 %}
+    <div class="archive-grid">
+      {% for post in working_papers %}
+        {% include archive-single.html type="grid" %}
+      {% endfor %}
+    </div>
+  {% else %}
+    <p class="research-section__empty">
+      No public working papers yet. New papers will appear here as they are released.
+    </p>
+  {% endif %}
+</section>
+
+<section class="research-section">
+  <div class="research-section__header">
+    <span class="research-section__eyebrow">Research</span>
+    <h2 class="research-section__title">Research Notes</h2>
+    <p class="research-section__description">
+      Focused theoretical, empirical, or methodological notes that document a specific
+      question, result, diagnostic exercise, or developing line of research.
+    </p>
+  </div>
+
+  {% if research_notes.size > 0 %}
+    <div class="archive-grid">
+      {% for post in research_notes %}
+        {% include archive-single.html type="grid" %}
+      {% endfor %}
+    </div>
+  {% else %}
+    <p class="research-section__empty">
+      No research notes are currently public.
+    </p>
+  {% endif %}
+</section>
+
+<section class="research-section">
+  <div class="research-section__header">
+    <span class="research-section__eyebrow">Academic work</span>
+    <h2 class="research-section__title">Theses &amp; Selected Projects</h2>
+    <p class="research-section__description">
+      Theses and selected academic projects that form part of the broader research portfolio.
+    </p>
+  </div>
+
+  {% if selected_work.size > 0 %}
+    <div class="archive-grid">
+      {% for post in selected_work %}
+        {% include archive-single.html type="grid" %}
+      {% endfor %}
+    </div>
+  {% else %}
+    <p class="research-section__empty">
+      No selected academic projects are currently public.
+    </p>
+  {% endif %}
+</section>
